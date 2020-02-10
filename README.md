@@ -4,7 +4,7 @@
 This is a Magisk Module that can replace the system-wide emoji font with one from Twitter, JoyPixels, Google, or Samsung. These are the current versions of each set that is available in this module:
 
 - **Twemoji - 12.0**
-- JoyPixels - 5.0
+- JoyPixels - 5.5
 - Google - 10.0 and 6.0.1
 - **Samsung - 9.0**
 - **Microsoft - missing!**
